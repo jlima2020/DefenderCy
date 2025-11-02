@@ -1,8 +1,3 @@
-# DefenderCy
-
-Perfeito! Aqui está uma versão personalizada da descrição para o seu agente de IA chamado **DefenderCy**, ideal para colocar no README do GitHub:
-
----
 
 ## 🛡️ DefenderCy — Agente de IA para Segurança e Educação Digital
 
